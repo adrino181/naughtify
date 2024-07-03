@@ -1,7 +1,7 @@
 // https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const clientId = "a8a810aff5f246ab9f15bd9e70d73327";
+const clientId = "api-key-add-here-xxx";
 const redirectUri = "http://localhost:3000/";
 
 
